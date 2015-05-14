@@ -4,3 +4,5 @@ Suranaree University of Technology, Nakhon Ratcha Sima, Thailand
 this file and repository was created for testing system.
 
 modified script
+
+mod for see git show

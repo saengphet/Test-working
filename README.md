@@ -6,3 +6,4 @@ this file and repository was created for testing system.
 modified script
 
 mod for see git show
+###########################Test Clone Fetch 1
